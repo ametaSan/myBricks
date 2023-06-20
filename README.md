@@ -13,7 +13,7 @@ Esc - instructions
 
 ...
 
-The player list contents some of my favorite songs.
+The play list contents some of my favorite songs.
 
 ...
 
